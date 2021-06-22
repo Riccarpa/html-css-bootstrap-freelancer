@@ -1,0 +1,48 @@
+header {
+    height: 70px;
+    background-color: rgb(49, 48, 88);
+}
+
+.spotlight {
+    background-color: rgb(70, 207, 196);
+    height: 250px;
+}
+
+.div-img {
+    background-color: rgb(126, 38, 118);
+    height: 200px;
+}
+
+.about {
+    height: 450px;
+    background-color: rgb(70, 207, 196);
+}
+
+.contacts {
+    height: 350px;
+}
+
+footer {
+    height: 350px;
+    background-color: gray;
+}
+
+.about-us {
+    background-color: gray;
+    height: 80%;
+}
+
+.contact-me {
+    background-color: rgb(201, 196, 196);
+    height: 95%;
+}
+
+.links {
+    height: 80%;
+    background-color: rgb(73, 72, 72);
+}
+
+.copyright {
+    height: 20%;
+    background-color: rgb(37, 37, 37);
+}
