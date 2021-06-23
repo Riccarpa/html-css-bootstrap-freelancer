@@ -1,5 +1,9 @@
 .bg-blu {
-    background-color: rgb(59, 33, 129);
+    background-color: rgb(55, 50, 99);
+}
+
+.sec-colour {
+    color: rgb(70, 207, 196);
 }
 
 .spotlight {
@@ -25,17 +29,12 @@
     border-radius: 0;
 }
 
-footer {
-    height: 350px;
-    background-color: gray;
+footer .f-up {
+    background-color: rgb(54, 80, 116);
 }
 
-.links {
-    height: 80%;
-    background-color: rgb(73, 72, 72);
-}
-
-.copyright {
-    height: 20%;
-    background-color: rgb(37, 37, 37);
+footer i {
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 10px;
 }
