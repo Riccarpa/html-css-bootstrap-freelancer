@@ -12,21 +12,17 @@
 
 .about {
     background-color: rgb(70, 207, 196);
+    border: 0;
 }
 
 .about-us {
     background-color: gray;
 }
 
-
-/* 
-.contacts {
-    height: 350px;
-}
-
-.contact-me {
-    background-color: rgb(201, 196, 196);
-    height: 95%;
+.form-control {
+    border: 0;
+    border-bottom: 1px solid gray;
+    border-radius: 0;
 }
 
 footer {
@@ -43,7 +39,3 @@ footer {
     height: 20%;
     background-color: rgb(37, 37, 37);
 }
-
-*/
-
-*/
