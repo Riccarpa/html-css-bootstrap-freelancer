@@ -1,18 +1,17 @@
-header {
-    height: 70px;
-    background-color: rgb(49, 48, 88);
-}
-
-header .row {
-    height: 100%;
+.bg-blu {
+    background-color: rgb(59, 33, 129);
 }
 
 .spotlight {
     background-color: rgb(70, 207, 196);
-    height: 250px;
 }
 
-.div-img {
+.star-hr span {
+    height: 5px;
+}
+
+
+/* .div-img {
     background-color: rgb(126, 38, 118);
     height: 200px;
 }
@@ -49,4 +48,4 @@ footer {
 .copyright {
     height: 20%;
     background-color: rgb(37, 37, 37);
-}
+} */
